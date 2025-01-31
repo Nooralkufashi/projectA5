@@ -7,5 +7,7 @@ public class DemoTestA5 {
 		int result = a+g;
 		System.out.println(result);
 	}
+	public void add(int a,int b){
+		System.out.println(a*b);
 
 }
